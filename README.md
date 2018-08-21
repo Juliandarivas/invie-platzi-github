@@ -1,2 +1,4 @@
-# invie-platzi-github
-Ejemplos curso profesional de github - Platzi.
+# invie
+Las guitarras más locas
+
+https://juliandarivas.github.io/invie-platzi-github/
